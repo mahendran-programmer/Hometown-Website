@@ -12,6 +12,7 @@
 
     #menu-icon {
         display: block;
+        font-size: 2rem;
     }
 
     .navbar {
@@ -20,7 +21,7 @@
         left: 0;
         width: 100%;
         background: #fff;
-        padding: 1rem 3%;
+        padding: 0px 3%;
         display: none;
     }
 
